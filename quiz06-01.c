@@ -8,9 +8,14 @@
 
 #include <stdio.h>
 
+// YOUR FUNCTION DEFINITION GOES HERE
 
-int main(void){
+
+
+// MAIN IS HERE
+int main(void) {
+        
+
     
     return 0;
-    
 }

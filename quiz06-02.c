@@ -8,7 +8,12 @@
  
 #include <stdio.h>
  
- 
+
+// YOUR FUNCTION DEFINITION GOES HERE
+
+
+
+// MAIN IS HERE
 int main(void){
         
     double dailyHighTemp[] = { 63.0, 64.5, 78.1, 80.9, 76.2, 79.0, 82.1 };
